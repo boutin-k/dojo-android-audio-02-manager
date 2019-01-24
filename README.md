@@ -2,7 +2,7 @@
 
 ## But du TD
 Faire un lecteur audio qui diffusera la musique suivante en streaming :
-http://images.innoveduc.fr/android/Green%20Day%20-%20Revolution.mp3
+* http://images.innoveduc.fr/android/Green%20Day%20-%20Revolution.mp3
 
 ## Etapes
 Faire un layout contenant 3 boutons : 
