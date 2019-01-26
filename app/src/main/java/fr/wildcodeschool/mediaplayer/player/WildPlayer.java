@@ -139,6 +139,7 @@ public class WildPlayer implements WildAudioManagerListener {
     if (null != mPlayer && isPrepared) {
       mPlayer.release();
       WildAudioManager.getInstance().releaseAudioFocus();
+      isPrepared = false;
     }
   }
 
