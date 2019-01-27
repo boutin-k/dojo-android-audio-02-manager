@@ -1,4 +1,4 @@
-# L'AUDIO_MANAGER
+# L'AudioManager
 
 ## But du TD
 Dans ton projet MediaPlayer, lorsqu'une autre application demande à prendre la main sur l'audio, ton application ne se *mute* pas et ça peut devenir très désagréable.
