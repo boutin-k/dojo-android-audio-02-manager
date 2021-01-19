@@ -21,3 +21,6 @@ Android n'arbitre pas l'audio au sein des applications tierces et pour ne pas ê
 ## Documentation
 * [AudioManager](https://developer.android.com/reference/android/media/AudioManager)
 * [audio-focus](https://developer.android.com/guide/topics/media-apps/audio-focus)
+
+## TD suivant
+* [Notification](https://github.com/boutin-k/dojo-android-audio-03-notification)
